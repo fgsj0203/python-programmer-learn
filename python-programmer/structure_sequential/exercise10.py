@@ -1,0 +1,5 @@
+number_one = int(input("number one: "))
+number_two = int(input("number two: "))
+max_number = max(number_one, number_two)
+print("\n*** Solution ***")
+print("\nThe bigger of two numbers is: %d" % max_number)
