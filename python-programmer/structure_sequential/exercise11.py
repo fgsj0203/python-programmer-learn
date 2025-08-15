@@ -1,0 +1,5 @@
+number_one = int(input("number one: "))
+number_two = int(input("number two: "))
+smaller_number = min(number_one, number_two)
+print("\n*** Solution ***")
+print("\nThe smaller of two numbers: %d" % smaller_number)
