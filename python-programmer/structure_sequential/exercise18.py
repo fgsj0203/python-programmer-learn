@@ -1,0 +1,6 @@
+number_one = int(input("number: "))
+number_two = int(input("number two: "))
+number_three = int(input("number three: "))
+numbers_elevate = (number_one**2) + (number_two**2) + (number_three**2)
+print("\n*** Solution ***")
+print("\nThree numbers elevate for two is: %d " % numbers_elevate)
