@@ -8,3 +8,7 @@ absolute_number = abs(difference_number)
 
 print("\n*** Solution ***")
 print("\nThe difference absolute is: %d" % absolute_number)
+
+"""
+testing
+"""
